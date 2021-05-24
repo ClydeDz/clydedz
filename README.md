@@ -11,4 +11,5 @@ I'm Clyde D'Souza. I'm a software developer by profession. I've also written a c
 - 🎁 [Society6](https://society6.com/clydedsouza)
 - 🔖 [Gumroad](https://gumroad.com/clydedsouza)
 - ☕ [Ko-fi](https://ko-fi.com/clydedsouza)
+- 📹 [YouTube](https://www.youtube.com/c/ClydeDsouzaPlus/)
 - 🐰 [Mama, Tell Me a Story (Book)](https://mamatellmeastory.clydedsouza.net/)
