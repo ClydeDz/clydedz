@@ -8,7 +8,7 @@ I'm Clyde D'Souza. I'm a software developer by profession. I've also written a c
 - 🎨 [Behance](https://www.behance.net/clydedz)
 - 🐥 [Twitter](https://twitter.com/clydedz)
 - 📸 [Instagram](https://www.instagram.com/insta_clyde/)
-- 🎁 [Society6](https://society6.com/clydedsouza)
+- 🎁 [Society6](https://society6.com/clydedsouza?curator=clydedsouza)
 - 🔖 [Gumroad](https://gumroad.com/clydedsouza)
 - ☕ [Ko-fi](https://ko-fi.com/clydedsouza)
 - 📹 [YouTube](https://www.youtube.com/c/ClydeDsouzaPlus/)
