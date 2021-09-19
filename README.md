@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Clyde D'Souza. I'm a software developer by profession. I've also written a children's bedtime storybook. Here are some links that you might find useful.
+I'm Clyde D'Souza. I'm a software engineer by profession. I've also written a children's bedtime storybook. Here are some links that you might find useful.
 
 - ✍ [Medium](https://medium.com/@clydedz)
 - 👨‍🏫 [Skillshare](https://www.skillshare.com/r/user/clydedsouza)
