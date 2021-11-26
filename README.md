@@ -2,6 +2,7 @@
 
 I'm Clyde D'Souza. I'm a software engineer by profession. I've also written a children's bedtime storybook. Here are some links that you might find useful.
 
+- 🌐 [Website](https://clydedsouza.net/)
 - ✍ [Medium](https://medium.com/@clydedz)
 - 👨‍🏫 [Skillshare](https://www.skillshare.com/r/user/clydedsouza)
 - 👨‍🏫 [Udemy](https://www.udemy.com/user/clydedsouza/)
