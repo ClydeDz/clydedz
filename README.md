@@ -16,6 +16,5 @@ I'm Clyde D'Souza. I'm a software engineer by profession. I've also written a ch
 - 📹 [YouTube](https://www.youtube.com/c/ClydeDsouzaPlus/)
 - 🐰 [Mama, Tell Me a Story (Book)](https://mamatellmeastory.clydedsouza.net/)
 - 🤖 [AI, Tell Me a Story (Book)](https://aitellmeastory.clydedsouza.net/)
-- 🏈 [NFT's on Rarible](https://rarible.com/clydedz) and [NFT's on OpenSea](https://opensea.io/clydedz)
 - 🦾 [GitHub actions marketplace](https://github.com/marketplace?type=actions&query=clydedz)
 
