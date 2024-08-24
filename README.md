@@ -8,7 +8,6 @@ I'm Clyde D'Souza. I'm a software engineer by profession. I've also written a ch
 - 👨‍🏫 [Udemy](https://www.udemy.com/user/clydedsouza/)
 - 🎨 [Behance](https://www.behance.net/clydedz)
 - 🐥 [Twitter](https://twitter.com/clydedz)
-- 📸 [Instagram](https://www.instagram.com/insta_clyde/)
 - 🎁 [Society6](https://society6.com/clydedsouza?curator=clydedsouza)
 - 🔖 [Gumroad](https://gumroad.com/clydedsouza)
 - ☕ [Ko-fi](https://ko-fi.com/clydedsouza)
